@@ -1,3 +1,5 @@
+"""Это телефонная книга"""
+"""Новая строка"""
 # printing the heading of the program
 print("WELCOME TO THE PHONEBOOK DIRECTORY")
 
@@ -5,6 +7,8 @@ print("WELCOME TO THE PHONEBOOK DIRECTORY")
 filename = "myphonebook.txt"
 myfile = open(filename, "a+")
 myfile.close
+
+# Добавить в код новые изменения
 
 
 # defining main menu
