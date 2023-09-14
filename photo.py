@@ -1,5 +1,5 @@
 def photo():
-    pass
+    print("photo")
 
 
 print("photo")
