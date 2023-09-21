@@ -3,5 +3,4 @@
 
 
 def users():
-    print("commit user2")
-    print("commit2 user2")
+    print("user2 commit3")
